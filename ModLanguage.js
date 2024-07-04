@@ -27,8 +27,8 @@ class ModLanguage {
         return "vi";
       case "Korean":
         return "ko";
-      case "ไทย";
-        return "th"
+      case "ไทย":
+        return "th";
       default:
         return "en";
     }
